@@ -9,8 +9,15 @@ Following libraries are required for running and using the tool:
 1. pandas
 2. numpy
 3. rdkit-pypi
-4. xgboost
-5. scikit-learn
-6. joblib
-7. Pillow
-8. ipython
+4. rdkit
+5. xgboost
+6. scikit-learn
+7. joblib
+8. Pillow
+9. ipython
+
+These libraries will be installed upon running the script but if error regarding libraries appears that library can be installed using the following command:
+!pip install library name
+for example: !pip install pandas
+
+Upon succesful execution, the script will ask for a SMILE code of the drug of interest from the user, user needs to input the SMILE code of their desired drug. The user can enter multiple SMILES also one by one by pressing enter after every entry. In case the user wants to stop entering SMILES, user needs to press enter twice to stop entering SMILES.
