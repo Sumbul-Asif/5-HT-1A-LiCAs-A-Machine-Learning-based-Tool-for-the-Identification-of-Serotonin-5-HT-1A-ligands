@@ -1,7 +1,7 @@
 For using the 5-HT1A-LiCAs tool, download the file 5-HT1A-LiCAs-tool.ipynb and open in Google Colab. Upload the following files and run the script:
-1.feature_selection_top100_artifacts.pkl
-2.xgboost_tuned_label_encoder.pkl
-3.xgboost_tuned_model.pkl
+1. feature_selection_top100_artifacts.pkl
+2. xgboost_tuned_label_encoder.pkl
+3. xgboost_tuned_model.pkl
 
 Requirements for using the tool 5-HT1A LiCAs:
 
