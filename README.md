@@ -20,12 +20,12 @@ These libraries will be installed upon running the script but if error regarding
 !pip install library name
 for example: !pip install pandas
 
-Upon succesful execution, the script will ask for a SMILE code of the drug of interest from the user, user needs to input the SMILE code of their desired drug. The user can enter multiple SMILES also one by one by pressing enter after every entry. In case the user wants to stop entering SMILES, user needs to press enter twice to stop entering SMILES.
+Upon successful execution, the script will ask for a SMILE code of the drug of interest from the user, user needs to input the SMILE code of their desired drug. The user can enter multiple SMILES also one by one by pressing enter after every entry. In case the user wants to stop entering SMILES, user needs to press enter twice to stop entering SMILES.
 
 
 Running Example:
 Aripiprazole is an FDA approved rug for 5-hT1a receptor as an agnist. The SIMILE CODE of the drug is provided below.
 ClC1=CC=CC(N2CCN(CCCCOC3=CC4=C(CCC(=O)N4)C=C3)CC2)=C1Cl
 
-After runnin gthe script using the above guidelines, paste this SMILE code and the tool will predict it as an agonist.
+After running the script using the above guidelines, paste this SMILE code and the tool will predict it as an agonist.
 
